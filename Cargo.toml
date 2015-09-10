@@ -1,0 +1,13 @@
+[package]
+name = "ssmp"
+version = "0.1.0"
+authors = ["Paul Woolcock <paul@woolcock.us>"]
+description = """
+Implementation of the Stupid Simple Messaging Protocol (https://github.com/aerofs/ssmp)
+"""
+repository = "https://github.com/pwoolcoc/ssmp"
+homepage = "https://github.com/pwoolcoc/ssmp"
+license = "MIT"
+
+[dependencies]
+nom = ">=0.4.0"
